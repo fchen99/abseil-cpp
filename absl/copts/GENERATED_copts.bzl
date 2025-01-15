@@ -194,7 +194,7 @@ ABSL_MSVC_FLAGS = [
 ]
 
 ABSL_MSVC_LINKOPTS = [
-    "-ignore:4221",
+    #"-ignore:4221",
 ]
 
 ABSL_MSVC_TEST_FLAGS = [
